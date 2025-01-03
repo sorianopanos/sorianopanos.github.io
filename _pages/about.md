@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is David Soriano-Paños and I currently work as a Juan de la Cierva postdoctoral researcher in the [Alephsys](http://alephsyslab.com) group at [Universitat Rovira i Virgili](https://www.urv.cat/en/). Before, I obtain  
+Hi! I am physicist working on the characterization of social and  biological processes through the lens of complex systems science. I am currently a Juan de la Cierva postdoctoral researcher at [Universitat Rovira i Virgili](https://www.urv.cat/en/). Previously, I obtained my PhD in Physics in 2021 at [University of Zaragoza](unizar.es) and an independent PONTE postdoctoral fellow at the former Gulbenkian Institute for Science (now [Gulbenkian Institute of Molecular Medicine](https://gimm.pt))
 
 A data-driven personal website
 ======
