@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is David Soriano-Paños
+Hi! My name is David Soriano-Paños and I currently work as a Juan de la Cierva postdoctoral researcher in the [Alephsys](http://alephsyslab.com) group at [Universitat Rovira i Virgili](https://www.urv.cat/en/). Before, I obtain  
 
 A data-driven personal website
 ======
