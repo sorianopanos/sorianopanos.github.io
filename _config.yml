@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "David Soriano-Paños personal website"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "David Soriano-Paños"
 description              : &description "personal description"
