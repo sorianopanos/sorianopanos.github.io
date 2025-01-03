@@ -21,7 +21,7 @@ repository               : "sorianopanos/sorianopanos.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_DSP.png"
   name             : "David Soriano-Paños"
   pronouns         : 
   bio              : "Juan de la Cierva postdoctoral researcher"
