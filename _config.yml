@@ -181,7 +181,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages", "_scripts"]
+include: ["_pages"]
 exclude:
   - bin/
   - CONTRIBUTING.md
@@ -201,6 +201,11 @@ exclude:
   - _pages/blog.md
   - _pages/projects.md
   - _pages/repositories.md
+  - _pages/profiles.md
+  - _pages/blog.md
+  - _pages/projects.md
+  - _pages/repositories.md
+  - _pages/dropdown.md
   - purgecss.config.js
   - README.md
   - readme_preview/
