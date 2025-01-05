@@ -1,24 +1,21 @@
----
 layout: page
 permalink: /publications/
-title: publications
-description: 
+title: Publications
+description:
 nav: true
 nav_order: 1
 ---
-
 <!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
 <div class="publications">
 
-{% bibliography %}
+{% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
 
-<div class="Preprints">
+<h2>Preprints</h2>
 
-{% bibliography %}
+<div class="publications">
+
+{% bibliography -f {{ site.scholar.bibliography_reports }} %}
 
 </div>
