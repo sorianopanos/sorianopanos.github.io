@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am physicist working on the characterization of social and  biological processes through the lens of complex systems science. I am currently a Juan de la Cierva postdoctoral researcher at [Universitat Rovira i Virgili](https://www.urv.cat/en/). Previously, I obtained my PhD in Physics in 2021 at [University of Zaragoza](https://www.unizar.es) and an held an independent PONTE postdoctoral fellow at the former Gulbenkian Institute for Science (now [Gulbenkian Institute of Molecular Medicine](https://www.gimm.pt)).
+Hi! I am physicist working on the characterization of social and  biological processes through the lens of complex systems science. I am currently a Juan de la Cierva postdoctoral researcher at [Universitat Rovira i Virgili](https://www.urv.cat/en/). Previously, I obtained my PhD in Physics in 2021 at [University of Zaragoza](https://www.unizar.es) and held an independent PONTE postdoctoral fellow at the former Gulbenkian Institute for Science (now [Gulbenkian Institute of Molecular Medicine](https://www.gimm.pt)).
 
 Research interests
 ------
