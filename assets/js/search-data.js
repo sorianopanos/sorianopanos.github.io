@@ -460,13 +460,6 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=vuwmTgAAAAJ", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-bluesky',
         title: 'Bluesky',
         section: 'Socials',
