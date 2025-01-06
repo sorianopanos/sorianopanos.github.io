@@ -31,7 +31,7 @@ orcid_id: 0000-0002-6388-4056
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 scholar_userid: vuwmTgAAAAJ  # your Google Scholar ID
-rss_icon: false # set to true to show the RSS icon
+#rss_icon: false # set to true to show the RSS icon
 bluesky_url: https://bsky.app/profile/sorianopanos.bsky.social
 x_username: sorianopanos# your X handle
 # scopus_id: # your profile on Scopus
