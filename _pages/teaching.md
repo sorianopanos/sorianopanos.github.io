@@ -7,6 +7,16 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# 2024
+Lecturer, Complex networks, Master's in Health Data Science, University Rovira i Virgili 
+Lecturer, Complex networks, Master's in Artificial Intelligence and Master's in Computer Security Engineering and Artificial Intelligence, University Rovira i Virgili 
+# 2023
+Lecturer, Networks Analytics in the Big Data era, Master's in Analytics, University of Los Andes
+# 2022
+Lecturer, Dynamical characterization and model calibration of epidemic models, BSc in Microbiology, University of Querétaro
+# 2021
+Teaching assistant, Quantum Physics I, BSc in Physics, University of Zaragoza
+Teaching assistant, Chaos and nonlinear dynamical systems, BSc in Physics, University of Zaragoza
+# 2020
+Teaching assistant, Chaos and nonlinear dynamical systems, BSc in Physics, University of Zaragoza
 
-Organize your courses by years, topics, or universities, however you like!
