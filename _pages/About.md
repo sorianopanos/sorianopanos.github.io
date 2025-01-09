@@ -9,9 +9,9 @@ profile:
   image: profile_DSP.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Juan de la Cierva researcher</p>
-    <p>Universitat Rovira i Virgili</p>
-    <p>Tarragona, Spain</p>
+    Juan de la Cierva researcher
+    Universitat Rovira i Virgili
+    Tarragona, Spain
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
