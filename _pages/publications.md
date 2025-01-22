@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: Preprints
 description:
 nav: true
 nav_order: 1
@@ -9,14 +9,14 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+{% bibliography -f {{ site.scholar.bibliography_reports }} %}
 
 </div>
 
-<h2>Preprints</h2>
+<h2>Publications</h2>
 
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography_reports }} %}
+{% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
