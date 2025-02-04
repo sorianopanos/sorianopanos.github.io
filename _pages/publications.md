@@ -1,13 +1,15 @@
 ---
 layout: page
 permalink: /publications/
-title: Preprints
+title: Publications
 description:
 nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
+
+<h2>Preprints</h2>
 
 {% bibliography -f {{ site.scholar.bibliography_reports }} %}
 
