@@ -15,9 +15,8 @@ nav_order: 1
 {% bibliography -f {{ site.scholar.bibliography_reports }} %}
 
 </div>
--->
 
-<h2>Publications</h2>
+<h2>Publications</h2> -->
 
 <div class="publications">
 
